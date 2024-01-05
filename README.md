@@ -6,3 +6,7 @@ From classic knitted styles to trendy pom-pom beanies, this collection offers a 
 
 Designed with care, these beanies are ready to seamlessly integrate into your game's visuals. Dress your characters for the season and infuse your game with a warm, wintery vibe using these delightful pixel art assets!
 
+Feel free to download these assets from [itch.io](https://padespanaki.itch.io/) and use them in your projects.
+
+![Pixel Cozy Beanies Collection](https://github.com/Padespanaki/Cozy-Beanies/blob/main/Cozy-Beanies.png)
+
